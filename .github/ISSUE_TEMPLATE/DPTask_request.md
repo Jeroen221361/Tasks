@@ -1,7 +1,7 @@
 ---
 name: 🔴DP Task
 about: Suggest a new Task
-title: "[Feature]"
+title: 🔴"[Feature]"
 labels: task
 assignees: your-username
 ---
