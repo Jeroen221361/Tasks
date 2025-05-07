@@ -1,19 +1,18 @@
 ---
 name: Task
-about: Suggest a new feature or enhancement
-title: "[Feature] "
-labels: enhancement
+about: Suggest a new Task
+title: "[Feature]"
+labels: task
 assignees: your-username
 ---
 
 ## Summary
-Briefly describe the feature you'd like to see.
+Briefly describe the task.
 
-## Why is it needed?
-Explain the problem this feature solves or the value it adds.
-
-## Proposed solution
-Describe how you think it should work.
+## Definition of Done. When is the task done? be clear and concise.
+- [ ] Describe acceptance criteria.
+- [ ] Describe acceptance criteria.
+- [ ] Describe acceptance criteria.
 
 ## Additional context
 Add screenshots, links, or notes if needed.
